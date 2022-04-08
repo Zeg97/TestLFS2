@@ -3,3 +3,5 @@ Type: FolderType
 Children:
 - Name: Object1
   Type: BaseObjectType
+- Name: Object2
+  Type: BaseObjectType
