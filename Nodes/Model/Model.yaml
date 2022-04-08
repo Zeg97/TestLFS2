@@ -1,2 +1,5 @@
 Name: Model
 Type: FolderType
+Children:
+- Name: Object1
+  Type: BaseObjectType
